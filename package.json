@@ -1,0 +1,19 @@
+{
+  "name": "coderkearns-word-count",
+  "main": "./lib/coderkearns-word-count",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "author": "Carter Kearns <coder.kearns@gmail.com>",
+  "activationCommands": {
+    "atom-workspace": "coderkearns-word-count:toggle"
+  },
+  "repository": "https://github.com/atom/coderkearns-word-count",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

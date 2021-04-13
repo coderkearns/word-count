@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle coderkearns-word-count",
+        "command": "coderkearns-word-count:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "coderkearns-word-count",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "coderkearns-word-count:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
